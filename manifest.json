@@ -1,11 +1,11 @@
 {
   "name": "The Forgotten Kingdom: Ashen Oath",
   "short_name": "Forgotten Kingdom",
-  "description": "Gothic fantasy RPG",
+  "description": "Isometric gothic action RPG",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
-  "orientation": "portrait",
+  "orientation": "landscape",
   "background_color": "#100b12",
   "theme_color": "#100b12",
   "icons": [

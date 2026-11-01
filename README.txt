@@ -1,2 +1,2 @@
-THE FORGOTTEN KINGDOM — ASHEN OATH (PWA)
-Upload all seven files to the root of the GitHub Pages repository, replacing same-named files, then commit. Keep main / root Pages settings. PWA install, offline caching, update prompt and local save are included. Game features missions, regular monsters, bosses, loot, inventory, life/mana potions and crafting.
+THE FORGOTTEN KINGDOM — ASHEN OATH 3.0
+Isometric action RPG prototype for GitHub Pages. Upload all files to repository root and commit. Move with WASD / arrow keys or tap/click the map. Click a nearby enemy or press Space to attack; Q casts shadow magic; 1/2 use life/mana potions; I opens inventory. Enemies pursue, bosses drop rare loot, items auto-pickup. Local save and PWA install/offline/update support.
