@@ -1,0 +1,2 @@
+THE FORGOTTEN KINGDOM 2.0 — PWA
+Extract this ZIP and upload the contents to the root of your GitHub repository (index.html at root). Enable GitHub Pages for main / root. Open the HTTPS address on Android Chrome to install. Includes a compact gothic turn-based RPG, local save, offline cache, install prompt and update detection. Original game files were not present in the referenced conversation; this is a recreation, not an exact recovery. Keep the same Pages URL to retain save data.
